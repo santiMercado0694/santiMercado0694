@@ -1,8 +1,11 @@
-<!-- Animated GIF -->
-![Animated GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center" style="margin: 0; padding: 0; border: none;">
-  <h2>Hi, I'm Santiago! 👋</h2>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Santiago</h1></summary>
+  </ul>
 </div>
 
 ![Grid Snake](https://github.com/1999AZZAR/1999AZZAR/raw/readme/resources/img/grid-snake.svg)
