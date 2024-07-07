@@ -75,3 +75,23 @@ My name is Santiago Mercado, and I'm a full-time systems engineering student. I 
   </a>
 </p>
 
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=santiMercado0694&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=santiMercado0694&theme=radical&hide_border=true" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiMercado0694&theme=radical&show_icons=true&hide_border=true&layout=compact"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
