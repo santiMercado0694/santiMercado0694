@@ -11,7 +11,7 @@
 ![Grid Snake](https://github.com/1999AZZAR/1999AZZAR/raw/readme/resources/img/grid-snake.svg)
 
 ### 👨🏻‍💻 About Me
-My name is Santiago Mercado, and I'm a full-time systems engineering student. I have a natural talent for problem-solving and networking, and I enjoy staying organized to get things done efficiently. My goal is to make a lasting impact on the industry and work in structured environments that allow me to thrive. Besides studying, I currently work at my own repairing computers and providing maintenance services.
+My name is Santiago Mercado, and I'm a full-time systems engineering student. I have a natural talent for problem-solving and networking, and I enjoy staying organized to get things done efficiently. My goal is to make a lasting impact on the industry and work in structured environments that allow me to thrive. Besides studying, I currently work at my own providing maintenance services to computers.
 
 ### 🔗 Contact
 
