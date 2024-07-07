@@ -80,7 +80,7 @@ My name is Santiago Mercado, and I'm a full-time systems engineering student. I 
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<td width="50%" align="left">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=santiMercado0694&theme=radical&show_icons=true&hide_border=true&count_private=true" />
   <br></br>
