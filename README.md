@@ -76,7 +76,7 @@ My name is Santiago Mercado, and I'm a full-time systems engineering student. I 
 </p>
 
 <!--- stats & Trophy (start) -->
-<p align="center">
+<p align="left">
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
