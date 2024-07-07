@@ -14,7 +14,6 @@ My name is Santiago Mercado, and I'm a full-time systems engineering student. I 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagomercadodev/)
 [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/26203984/santiago-mercado)
 
-## 🛠 Skills
 
 ## 🛠 Skills
 <p align="left">
