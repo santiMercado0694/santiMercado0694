@@ -1,4 +1,5 @@
 ## Hi, I'm Santiago! 👋
+  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/d29cd35885dc46713e27270349ef2a1f85370d09/resources/img/grid-snake.svg" alt="Grid Snake" width="400" height="200"/>
 
 
 ## 👨🏻‍💻 About Me
