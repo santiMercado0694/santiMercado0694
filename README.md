@@ -11,7 +11,7 @@
 ![Grid Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ### 👨🏻‍💻 About Me
-My name is Santiago Mercado, and I'm a full-time Software Engineering student. I have a natural talent for problem-solving and networking, and I enjoy staying organized to get things done efficiently. My goal is to make a lasting impact on the industry and work in structured environments that allow me to thrive. Besides studying, I currently work at my own providing maintenance services to computers.
+My name is Santiago Mercado, and I am a full-time Systems Engineering student. I have a natural talent for problem-solving and stand out for my structured and organized approach to working efficiently. My goal is to make a lasting impact in the industry while also gaining experiences that will enhance my professional development in the field. In addition to studying, I currently work independently providing computer maintenance services.
 
 ### 🔗 Contact
 
